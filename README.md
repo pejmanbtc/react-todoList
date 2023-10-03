@@ -51,7 +51,7 @@ This is a simple Todo List application built using React. It allows you to add t
 
 ## Credits
 
-This TodoList application was created with React by [pejmanbtc].
+This TodoList application was created with React by [@pejmanbtc].
 
 
 
